@@ -179,7 +179,7 @@ AI	PyTorch, TensorFlow, Scikit-learn	딥러닝·머신러닝 구현 도구
 
 ### 2) 기술 스택 (임의로 작성)
 - **프론트**: Flutter  
-- **백엔드**: Django  
+- **백엔드**: Django (Python) 
 - **AI 모델**: PyTorch, OpenAI API 등  
 - **실시간 통신**: WebSocket, Firebase Cloud Messaging (앱 푸시 알림 기능)  
 
