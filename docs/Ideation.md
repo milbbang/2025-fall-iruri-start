@@ -25,6 +25,7 @@
 기업은 개별 직원의 민감 데이터에 접근하지 않고, 블록체인 기반 DID와 영지식 증명을 활용하여 익명화된 집계 지표와 복지 활용 내역만 확인할 수 있다. 이를 통해 복지 효과를 정량적으로 검증하고, HR 정책·ESG 보고·생산성 관리에 활용할 수 있으며, 직원은 프라이버시 보호와 함께 실질적인 절약 효과·재무 인사이트·안전망 보장이라는 혜택을 동시에 누리게 된다.
 
 🎵기술스택
+
 1.	Android Studio (Kotlin/Java) → 네이티브 개발로 기업/직원용 안정적 UX 제공, 대규모 커뮤니티와 지원 풍부.
 2.	Visual Studio Code → OS 독립적이고 Git 연동이 쉬워 협업·버전관리에 최적.
 3.	DID/VC 표준 → 직원 신원을 노출 없이 증명 가능, 기업-직원 간 신뢰 기반 데이터 교환.
@@ -32,12 +33,14 @@
 5.	블록체인 기반 DID (참고: https://velog.io/@jejualrock/DID-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-TIL-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 
 🎵선행 사례
+
 FinFit (미국)
 :2010년대부터 운영된 직원 금융 웰빙 서비스.
 -	급여 선지급(Earned Wage Access), 금융 교육, 대출상품 연계.
 -	앱과 유사: 기업 HR 복지에 내장되는 금융 서비스
 -	유사점: FinFit은 대출/대체 금융상품 제공이 중심, 우리는 예측·습관·데이터 보호 중심.
 https://www.finfit.com/
+
 Nudge (영국)
 -	맞춤형 금융 교육 콘텐츠 제공.
 -	별 상황에 맞는 푸시 알림으로 금융 지식·습관 강화.
@@ -46,6 +49,7 @@ Nudge (영국)
 https://www.nudge-global.com/clients/client-stories/?utm_term=&utm_campaign=DSA+-+UK&utm_source=adwords&utm_medium=ppc&hsa_acc=6158851757&hsa_cam=15096810164&hsa_grp=130767187124&hsa_ad=573037820538&hsa_src=g&hsa_tgt=dsa-1455430633566&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=15096810164
 
 🎵필요성
+
 1.	직원 개인 측면
 1)	당장은 재정난이 없어도 금융 불안·미래 걱정은 생산성과 행복감에 직접적인 영향을 줌.
 2)	AI 기반 맞춤 코칭으로 이자·수수료 절감, 저축 습관 형성, 미래 목표 달성 지원 가능.
@@ -57,6 +61,7 @@ https://www.nudge-global.com/clients/client-stories/?utm_term=&utm_campaign=DSA+
 4)	소비자들의 소비 습관을 따로 데이터 모으는 회사에 외주 맡기지 않아도 자사 내에서 어느정도 파악 가능
 
 🎵이 외 구현하면 좋을 것 같은 기능들
+
 1.	코칭 카드 완료 시 복지포인트 자동 적립
 2.	친환경 소비, 기부 등으로 통장에서 돈이 나갈 시 포인트 형식으로 보상
 	ESG 유의미한 성과 가능
