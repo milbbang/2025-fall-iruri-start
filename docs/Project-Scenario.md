@@ -10,6 +10,6 @@
 | Pain Point |  |
 | 사용할 소프트웨어 패키지의 명칭과 핵심기능/용도 |  |
 | 사용할 소프트웨어 패키지의 명칭과 URL |  |
-| 팀그라운드룰 URL | 2025-fall-iruri-start/docs/Project-Scenario.md  |
+| 팀그라운드룰 URL | [2025-fall-iruri-start/docs/Project-Scenario.md](https://github.com/youjean-s/2025-fall-iruri-start/blob/main/docs/GroundRule.md)  |
 | 최종수정일 |  |
 
