@@ -3,13 +3,13 @@
 | 프로젝트명 |  |
 | 프로젝트 키워드 |  |
 | 트랙 |  |
-| 프로젝트 멤버 |  |
+| 프로젝트 멤버 | 송유진, 정서진, 임슬민 |
 | 팀지도교수 |  |
 | 무엇을 만들고자 하는가 (서술형 문장으로) |  |
 | 고객 (범위를 최대한 좁혀서 지정) |  |
 | Pain Point |  |
 | 사용할 소프트웨어 패키지의 명칭과 핵심기능/용도 |  |
 | 사용할 소프트웨어 패키지의 명칭과 URL |  |
-| 팀그라운드룰 URL |  |
+| 팀그라운드룰 URL | [2025-fall-iruri-start/docs/GroundRule.md](https://github.com/youjean-s/2025-fall-iruri-start/blob/main/docs/GroundRule.md)  |
 | 최종수정일 |  |
 
