@@ -1,0 +1,23 @@
+# --- Core Libraries ---
+numpy==1.26.0
+pandas==2.1.2
+
+# --- Parsing & Utils ---
+regex==2023.10.6
+
+# --- Web Crawling ---
+requests==2.31.0
+beautifulsoup4==4.12.2
+playwright==1.39.0
+
+# --- Visualization ---
+plotly==5.18.0
+
+# --- Demo UI ---
+streamlit==1.32.0
+
+# --- Optional (only if OCR needed for screenshots) ---
+pytesseract==0.3.10
+
+# --- Optional: HTML parsing helpers ---
+lxml==4.9.3
