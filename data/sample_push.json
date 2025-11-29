@@ -1,0 +1,18 @@
+[
+  {
+    "name": "인문100년장학금(신규장학생)",
+    "type": "국가장학금",
+    "period": "2025. 3. 26.~ 4. 16.",
+    "link": "https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_07_01",
+    "condition": "대한민국 국적 소지자로서 국내 4년제 대학 인문·사회계열 학과(부)에 재학 중인 1학년 또는 3학년",
+    "grant": "등록금 지원 + 기초생활수급자는 250만원 추가지원"
+  },
+  {
+    "name": "청로장학재단 제 4기 장학생 선발",
+    "type": "민간장학금",
+    "period": "2025/11/11 - 2025/12/05",
+    "link": "https://www.cheongro.org/bbs/board.php?tbl=bbs41&mode=VIEW&num=22&",
+    "condition": "대학생 이공계 전공 예비 3,4학년(휴학생제외), 경제적 어려움을 겪고 있는 가정의 학생",
+    "grant": "500만원"
+  }
+]
